@@ -7,7 +7,7 @@ body {
 
 .principal {
     background-image: linear-gradient(rgba(13, 44, 84, 0.35), rgba(13, 44, 84, 0.35)),
-                      url(IMGPARCIAL/ChatGPT\ Image\ 9\ sept\ 2026\,\ 15_32_58.png);
+                      url("IMGPARCIAL/ChatGPT Image 9 sept 2026, 15_32_58.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
